@@ -9,5 +9,7 @@ int(num1) + int(num2) + int(num3)
 print(f"The avarage is {(int(num1) + int(num2) + int(num3)) /3}")
 
 
-
+#NOTE :- take input in one line..
+num1 ,num2 , num3=input("Enter three number by coma separated :").split(",")
+print(f"Avarage number is : {(int(num1) + int(num3) + int(num3)) /3}")
 
