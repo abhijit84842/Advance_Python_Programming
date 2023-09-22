@@ -19,3 +19,10 @@ print(var)
 
 print(numbers.index(3))
 
+# How to concatenate two list?
+fruits1=["apple","banan"]
+fruits2=["grapes","orange"]
+fruits=fruits1 + fruits2
+print(fruits)
+
+#Output:- ['apple', 'banan', 'grapes', 'orange']
