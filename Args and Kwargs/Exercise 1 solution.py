@@ -18,3 +18,11 @@
 # return list
 
 # NOTE: USE LIST COMPREHENSION..
+
+def func(num,*args):
+    if args:
+        return [i**num for i in args]
+    else:
+        return "You did't pass any argument"
+numbers=[1,2,3,4,5]
+print(func(3,*numbers))
