@@ -18,6 +18,8 @@
 # = Because of limitation of lists , list are not enough to represent real data.
 
 
+# Method in disctionary=> 1) pop()  , 2)get() , 3) clear() , 4)copy() , 5)update()
+
 
  # How to create dictionaries?
 user_info={
