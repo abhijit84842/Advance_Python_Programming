@@ -1,7 +1,7 @@
 my_list=list(range(1,21))
 for item in my_list:
     # if item matched
-    if item==11:
+    if item==11:        # because loop searching by indexing
         print("Successfully Matched Item")
         break
     print(item)
