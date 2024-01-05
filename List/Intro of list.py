@@ -3,20 +3,21 @@
 # you can store anything in lists int, float,string.
 
 # We create our list using square brackets[]
+# list are Multable , we can change the orginal data of list
 
 # IMPORTANT LIST METHOD IN PYTHON
 
-#append()
-#copy()
-#count()
-#clear()
-#insert()
-#index()
-#reverse()
-#remove()
-#extend()
-#sort()
-#pop()
+# 1)append()
+#2)copy()
+#3)count()
+#4)clear()
+#5)insert()
+#6)index()
+#7)reverse()
+#8)remove()
+#9)extend()
+#10)sort()
+#11)pop()
 
 
 
