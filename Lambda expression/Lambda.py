@@ -5,6 +5,8 @@
 
 # We use lambda expression with built in function..like map,reduce,filter etc.
 
+# lambda arguments: expression    
+
 def add(a,b):
     return a+b
 print(add(5,2))     # Old method

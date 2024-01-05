@@ -16,3 +16,12 @@ print(is_even(8))       # Output : - True
 # Define a function and print last char of a string..
 last_char=lambda s : s[-1]
 print(last_char('abhijit'))     # Output : - t
+
+
+# TAKE A LIST AS A ARGUMENT..
+# Example list
+my_numbers = list(range(1,11))
+# Example lambda function that takes a list and returns the sum of its elements
+sum_list = lambda my_list: sum(my_list)
+
+print(sum_list(my_numbers))
