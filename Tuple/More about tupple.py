@@ -63,3 +63,7 @@ print(min(mixed))
 print(max(mixed))
 
 print(sum(mixed))
+
+# Creating a nested tuple    
+nested_tuple = ("Python", {4: 5, 6: 2, 8:2}, (5, 3, 5, 6))    
+print("A nested tuple: ", nested_tuple)  

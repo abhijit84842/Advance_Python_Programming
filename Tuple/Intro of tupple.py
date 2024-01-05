@@ -7,4 +7,4 @@ example=('one','two','three')
 # why we use tuples?
 # = because tuples are faster than list.
 
-# we can use tuple = method,count,index,len function,slicing.
+# we can use tuple = method,count,index,len function,slicing, min() , max(), sum().
