@@ -1,3 +1,6 @@
+# Python zip() function returns a zip object. 
+# Python's zip() function is a built-in function that is used to combine two or more iterables into a single iterable.
+
 # zip function..
 
 user_info=['user1' , 'user2' ,'user3']
