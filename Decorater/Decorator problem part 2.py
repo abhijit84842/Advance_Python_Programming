@@ -15,6 +15,6 @@ func1(7)
 
 
 @decorator_function
-def add_func(a,b):
-    return a+b
-print(add_func(8,4))
+def add_func(*args):
+    return sum(args)
+print(add_func(8,4,5,6,10,11,10,12))
