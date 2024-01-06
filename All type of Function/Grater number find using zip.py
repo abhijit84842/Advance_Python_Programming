@@ -5,6 +5,6 @@ l1=[1,3,5,7]
 l2=[2,4,6,8]
 
 new_list=[]
-for pair in zip(l1,l2):
+for pair in zip(l1,l2):             # use pair instied of i in zip for loop.
     new_list.append(max(pair))
 print(new_list)         # Output :- [2, 4, 6, 8]
