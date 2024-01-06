@@ -4,6 +4,8 @@
 # Time Complexity: O(1)
 # We can also use the pop() method to remove the item. Generally, the pop() method will always remove the last item but the set is unordered, we can't determine which element will be popped from set.
 
+# set is Mutable So, we can change orginal set.
+
 # ex=>=1 
 var = {"Eat", "Coding", "Sleep"}
 print(type(var))
