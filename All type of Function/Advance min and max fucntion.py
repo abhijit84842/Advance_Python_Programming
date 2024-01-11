@@ -8,7 +8,7 @@ print(min(numbers))
 def func(item):
     return len(item)
 names=['TCS','EY','CAPGIMINI','COGNIZANT']
-print(min(names , key=func))
+print(min(names , key=func))        # it take as a input iterable and key= func name 
 
 
 
