@@ -12,7 +12,7 @@ def decorator_func(any_function):
         value_return=any_function(*args , **kwargs)
 
         t2=time.time()
-        total=t2-t1
+        total=t1-t2
         print(f"This function took total {total} scounds..")
         return value_return
     return wrapper_func
