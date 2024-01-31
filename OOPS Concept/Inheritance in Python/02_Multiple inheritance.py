@@ -1,3 +1,6 @@
+# Multiple inheritance -> A class can be derived from more then one base classes. The Syntax for multiple inheitance is similer to single inheritance.
+
+
 class First:
     def sum(self,a,b):
         c=a+b
