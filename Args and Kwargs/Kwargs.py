@@ -12,4 +12,4 @@ d={
     'Roll_no' : 27
 }
 
-print(func(**d))
+func(**d)
